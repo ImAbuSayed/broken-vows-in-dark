@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-vows-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Broken Vows In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-vows-in-dark/) |
+| **Get License** | [License this song: Broken Vows In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-vows-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42f7fe64e854daee18c64e9825c67b267330b59cfbe78ba7772ace5ed51d8618` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

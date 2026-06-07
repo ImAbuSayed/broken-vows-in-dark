@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Broken Vows In Dark
+
+This log tracks the cryptographic history and versioning for the song **Broken Vows In Dark** (broken-vows-in-dark).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T12:08:40.114541 | `v1` | `42f7fe64e854daee18c64e9825c67b267330b59cfbe78ba7772ace5ed51d8618` | `331bedaadd51f041254bd348b9b0a248491979e756d7d5ba6a9e4e628c5e71b7` | `2026-06-07_broken-vows-in-dark-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
