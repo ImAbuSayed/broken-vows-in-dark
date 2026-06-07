@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-vows-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Broken Vows In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-vows-in-dark/) |
+| **Get License** | [Music Rights & Licensing for Broken Vows In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-vows-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling on the wooden floor
+> I've never wanted you like this before
+> We leave the world and all its noise behind
+> And let our lonely secrets intertwine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
